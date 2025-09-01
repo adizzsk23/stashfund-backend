@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+passlib[bcrypt]
+python-jose
