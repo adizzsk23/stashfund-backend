@@ -4,3 +4,5 @@ sqlmodel
 pydantic
 passlib[bcrypt]
 python-jose
+python-multipart   # <-- add this line
+
